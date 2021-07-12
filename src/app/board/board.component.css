@@ -1,14 +1,14 @@
 main {
-    width: 100%;
+    width: 90%;
     justify-content: center;
     display: grid;
-    grid-template-columns: 165px 165px 165px;
+    grid-template-columns: 8em 8em 8em;
     grid-gap: 0px;
 }
   
 app-square {
     border: 1px gray solid;
-    height: 165px;
+    height: 8em;
 }
 h1, p, h2
 {
